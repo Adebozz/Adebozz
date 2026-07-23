@@ -79,18 +79,10 @@ I'm a software developer who turns ideas into fast, intuitive, and reliable digi
 | **E-Commerce Website** | A modern full-stack e-commerce site with product listings, cart and checkout | Next.js · React · MongoDB · CSS |
 | **PDF Converter** | Converts files to PDF and vice versa, storing uploaded files securely | React · Tailwind CSS · MongoDB |
 
-> 🔗 Live demos and source on my portfolio: **[adeboss.vercel.app](https://adeboss.vercel.app)** · 📍 Pin these repos so they surface here too.
+> 🔗 Live demos and source on my portfolio: **[adeboss.vercel.app](https://adeboss.vercel.app)** · 
 
 ---
 
-### 💼 Experience
-
-- **Junior Developer** — W-MILE, London / Hybrid _(Jan 2025 – Present)_
-- **Software Developer** — Xpress Payments, Lagos _(Jan 2024 – Jul 2025)_ · fintech features across XpressPay, PayXpress & XpressStore
-- **Software Developer** — Doyse Educational Consults, Remote _(Oct 2022 – Jan 2025)_
-- **Junior Web Developer Intern** — LASUTH, Lagos _(May 2022 – Oct 2022)_
-
----
 
 ### 🔨 What I'm Working On
 
