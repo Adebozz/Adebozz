@@ -1,78 +1,72 @@
-
-<h1 align="center">Hi 👋, I'm Ademola Adeigbe</h1>
-<h3 align="center">Software Developer | Full-Stack (React · Next.js · Node) | AI & Data Science (MSc)</h3>
+<h1 align="center">Hi 👋, I'm Adeboss (Ademola Adeigbe)</h1>
+<h3 align="center">Software Developer | AI & Data Science Enthusiast | MLOps</h3>
 
 <p align="center">
   <a href="https://adeboss.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Software+Developer+based+in+the+UK;Full-stack+web+%2B+API-driven+apps;Fintech+tools%2C+dashboards+%26+AI+features;MSc+in+AI+%26+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=I+build+modern%2C+user-focused+web+apps;And+production-grade+ML+systems;From+adaptive+AI+study+tools...;...to+real-time+fraud+detection" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adebozz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adebozz&label=Profile%20views&color=2563eb&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://adeboss.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **Software Developer** building responsive web apps, API-driven features, fintech tools, dashboards and AI-enabled applications
-- 🎓 Studying **MSc Artificial Intelligence & Data Science** at the University of Hull (expected 2026)
-- 🔭 Currently a **Junior Developer at W-MILE** (London / Hybrid)
-- 🌱 Deepening my skills in **LLMs, RAG pipelines & applied machine learning**
-- 💬 Ask me about **React, Next.js, Node, FastAPI, MongoDB & AI/ML**
-- 🌐 Portfolio: **[adeboss.vercel.app](https://adeboss.vercel.app)**
+I'm a software developer who turns ideas into fast, intuitive, and reliable digital products. I've worked with businesses across industries, and I'm currently deepening my expertise with a **Master's in Artificial Intelligence & Data Science** — building intelligent, data-driven systems that solve real problems.
+
+- 💻 **Full-Stack Development** — end-to-end web apps with Next.js, TypeScript and modern tooling
+- 🤖 **AI & Machine Learning** — shipping production ML systems with real monitoring, drift detection and MLOps
+- ☁️ **MLOps & Cloud** — Dockerized deployments on Kubernetes with Terraform, Prometheus monitoring and CI/CD
+- 🎓 Pursuing an **MSc in AI & Data Science** at the University of Hull
 - 📫 Reach me at **ademolaadeigbe3@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & APIs**
+**Backend & Data**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Databases**
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**AI / ML / Data**
+**AI & MLOps**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
@@ -80,12 +74,12 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| **RAG University IT Support System** _(MSc)_ | Classifier-assisted RAG system that answers student IT queries from support docs with grounded citations | Dify · Ollama · Mistral 7B · Python · scikit-learn |
-| **AI Data Analyst Copilot** | Upload CSVs to explore stats, train models and generate AI-powered insights | Next.js · FastAPI · Pandas · OpenAI API |
-| **E-Commerce Jewellery Store** | Responsive store with auth, cart and payment-flow integration | Next.js · React · MongoDB · Tailwind |
-| **Skin Cancer Detection App** | CNN-based computer-vision classifier with a web prediction interface | TensorFlow · PyTorch · OpenCV · Flask |
+| **⭐ Real-Time Fraud Detection** | Production-grade MLOps system that scores card transactions in ~1ms — and knows when its own answers can't be trusted. PR-AUC 0.882, drift detection, shadow deployments, automated champion/challenger retraining | XGBoost · FastAPI · MLflow · Kubernetes · Terraform · Prometheus |
+| **⭐ Cognify — AI Study Engine** | Adaptive exam-prep app that turns uploaded notes, slides and PDFs into a personalised 3-phase revision session: knowledge scan, weak-spot drill, and final challenge | Next.js · TypeScript · AI Integration |
+| **E-Commerce Website** | A modern full-stack e-commerce site with product listings, cart and checkout | Next.js · React · MongoDB · CSS |
+| **PDF Converter** | Converts files to PDF and vice versa, storing uploaded files securely | React · Tailwind CSS · MongoDB |
 
-> 📍 Pin these repos on your profile so they show up here automatically.
+> 🔗 Live demos and source on my portfolio: **[adeboss.vercel.app](https://adeboss.vercel.app)** · 📍 Pin these repos so they surface here too.
 
 ---
 
@@ -100,10 +94,10 @@
 
 ### 🔨 What I'm Working On
 
-- 🧩 Full-stack apps with **React / Next.js + Node / FastAPI**
-- 🤖 My MSc project: **classifier-assisted RAG** with a small language model
-- 📚 RAG evaluation — Hit@3, MRR, faithfulness & citation accuracy
-- ⛓️ Exploring applied ML, computer vision and LLM tooling
+- 🧩 Full-stack apps with **Next.js + FastAPI / Node**
+- 🤖 Production ML with real **monitoring, drift detection & MLOps**
+- ☁️ Kubernetes deployments with **Terraform, Prometheus & Grafana**
+- 🎓 My MSc project: a **classifier-assisted RAG** system with a small language model
 
 ---
 
@@ -124,11 +118,13 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Talk
+
+Have a project in mind, a role to fill, or just want to say hi? My inbox is always open.
 
 <p align="center">
   <a href="https://adeboss.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/adeboss" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
